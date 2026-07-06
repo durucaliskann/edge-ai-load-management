@@ -31,7 +31,6 @@ To demonstrate scalability, the loads are mapped to a simulated food processing 
 * **L3 - Low Priority Load (LED/Laser):** Facility perimeter lighting. First to be shed during capacity prediction.
 
 ## 📊 System Flowchart & Block Diagrams
-*(Include the images of your block diagrams, flowchart, and poster here by dragging and dropping them into the GitHub editor)*
 <img width="3029" height="6547" alt="Load Forecasting and-2026-07-06-130532" src="https://github.com/user-attachments/assets/0f1666fd-1667-4115-816e-c4a1ed55874b" />
 
 
