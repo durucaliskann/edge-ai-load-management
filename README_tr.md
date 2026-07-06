@@ -29,7 +29,7 @@ Geliştirilen sistemin ölçeklenebilirliğini göstermek amacıyla tesis yükle
 * **L3 - Düşük Öncelikli Yük (LED/Lazer):** Çevre aydınlatması (Kapasite aşımı öngörüldüğünde ilk atılacak yük).
 
 ## 📊 Akış Şeması ve Bağlantı Diyagramı
-*(Afişinizdeki donanım blok diyagramını ve akış şemasını sürükle-bırak yöntemiyle buraya ekleyebilirsiniz)*
+
 <img width="2670" height="6990" alt="AI Load Forecasting Pipeline-2026-06-19-161543" src="https://github.com/user-attachments/assets/83c94686-6e6b-437d-825a-8e41c39ab56a" />
 
 
